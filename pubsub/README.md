@@ -2,7 +2,6 @@
 
 https://internetcomputer.org/docs/current/tutorials/developer-journey/level-2/2.2-advanced-canister-calls
 
-
 ```bash
 cd pubsub/
 dfx help
